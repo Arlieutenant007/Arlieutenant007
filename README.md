@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arlieutenant007
+- 👋 Hi, I’m @tushar_023
 - 👀 I’m interested in Android App Development
 - 🌱 I’m currently learning in GEC Bhavngar
 - 💞️ I’m looking to collaborate on linked in.
